@@ -23,11 +23,6 @@ Welcome to **Fusion Electronics**, a **MERN-Stack E-commerce Application**! This
 10. [Swagger API Documentation](#swagger-api-documentation)
 11. [OpenAPI Specification](#openapi-specification)
     - [Using the `openapi.yaml` File](#using-the-openapiyaml-file)
-12. [Deployment](#deployment)
-13. [Containerization](#containerization)
-14. [Contributing](#contributing)
-15. [License](#license)
-16. [Creator](#creator)
 
 ## Introduction
 
